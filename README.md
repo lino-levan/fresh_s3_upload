@@ -1,4 +1,4 @@
-# Fresh AWS Upload Demo
+# Fresh S3 Upload Demo
 
 A quick demo to show file uploads with Fresh. Make sure to set the environment
 variables and rename `.example.env` to `.env`. Other than that, it should work
